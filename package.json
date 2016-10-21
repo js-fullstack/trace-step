@@ -1,0 +1,23 @@
+{
+  "name": "trace-step",
+  "version": "0.0.0",
+  "description": "A tool used in mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-fullstack/trace-step.git"
+  },
+  "keywords": [
+    "trace",
+    "mocha"
+  ],
+  "author": "shenyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-fullstack/trace-step/issues"
+  },
+  "homepage": "https://github.com/js-fullstack/trace-step#readme"
+}
