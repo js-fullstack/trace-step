@@ -1,6 +1,6 @@
 {
   "name": "trace-step",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A tool used in mocha",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/js-fullstack/trace-step/issues"
   },
-  "homepage": "https://github.com/js-fullstack/trace-step#readme"
+  "homepage": "https://github.com/js-fullstack/trace-step#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "debug": "^2.2.0"
+  },
+  "dependencies": {
+    "def-schema": "^1.0.1"
+  }
 }
